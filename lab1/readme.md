@@ -1,30 +1,33 @@
-goforward
+Реализовано:
+======================
+
+*goforward
 
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/CkXohJ6XIAEt5Xp.jpg)
 
-goback
+*goback
 
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/EygGrypbBmY.jpg)
 
-cut
+*cut
 
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/W0jmEOqDwFc.jpg)
 
-copy
+*copy
 
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/YaakStPcwKI.jpg)
 
-paste
+*paste
 
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/Z29y8IETpyI.jpg)
 
-create
+*create
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/gjcNhYCdDJM.jpg)
 
-delete
+*delete
 
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/gkVLxsCUgvs.jpg)
 
-rename
+*rename
 
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/u-AI0J94Y-Y.jpg)
