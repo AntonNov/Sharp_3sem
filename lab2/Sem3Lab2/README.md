@@ -1,4 +1,5 @@
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab2/mems/Pr7l1Uv3f5w.jpg)
+
 Лабораторная работа № 2
 =====================================
 
