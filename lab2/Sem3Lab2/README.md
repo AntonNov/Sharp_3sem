@@ -55,3 +55,5 @@
 * `StreamAesCryptor` шифрует/дешифрует поток методом AES, используя `Key` и `IV`. Экземпляр класса сможет дешифровать любой зашифрованный им поток.
 
 * `OneoffCryptoStream` - улучшенный поток `CryptoStream`, который сам вызывает метод `IDisposable.Dispose()` у `ICryptoTransform` после своего использования.
+
+![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab2/mems/drQv4wzZqck.jpg)
