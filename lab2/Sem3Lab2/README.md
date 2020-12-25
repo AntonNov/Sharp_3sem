@@ -8,6 +8,7 @@
 > В папке "exsamples" находятся примеры конфигурационных файлов, которые должны находится в директории приложения.
 
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab2/mems/zJe6kSf_ipo.jpg)
+
 Реализовано:
 ------------
 
