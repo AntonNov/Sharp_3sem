@@ -57,3 +57,5 @@
 * `OneoffCryptoStream` - улучшенный поток `CryptoStream`, который сам вызывает метод `IDisposable.Dispose()` у `ICryptoTransform` после своего использования.
 
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab2/mems/drQv4wzZqck.jpg)
+
+![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab2/mems/au3SjGs-MkU.jpg)
