@@ -22,6 +22,7 @@
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/Z29y8IETpyI.jpg)
 
 *create
+
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/gjcNhYCdDJM.jpg)
 
 *delete
