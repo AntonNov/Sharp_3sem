@@ -3,8 +3,6 @@
 
 *goforward
 
-![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/CkXohJ6XIAEt5Xp.jpg)
-
 *goback
 
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/EygGrypbBmY.jpg)
