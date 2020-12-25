@@ -33,6 +33,8 @@
 
 * Службу можно безопасно приостановить `Pause ()` и немедленно остановить `Stop ()` (в классе `DirectoryFileExtractor`).
 
+![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab2/mems/f26st-vPoVE.jpg)
+
 Краткое описание классов:
 -------------------------
 
