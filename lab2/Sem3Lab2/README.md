@@ -20,6 +20,8 @@
 
 * Сервис реализован как Windows-служба
 
+![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab2/mems/NQj7UwRF2LQ.jpg)
+
 Особенности:
 ------------
 
