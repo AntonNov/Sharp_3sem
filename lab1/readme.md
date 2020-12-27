@@ -1,20 +1,20 @@
 Реализовано:
 -----------
-*goforward
+>goforward
 
-*goback
+>goback
 
-*cut
+>cut
 
-*copy
+>copy
 
-*paste
+>paste
 
-*create
+>create
 
-*delete
+>delete
 
-*rename
+>rename
 
 
 
