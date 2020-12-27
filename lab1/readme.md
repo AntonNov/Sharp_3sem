@@ -16,6 +16,11 @@
 
 *rename
 
+
+
+
+---------------------------
+
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/u-AI0J94Y-Y.jpg)
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/EygGrypbBmY.jpg)
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab1/mems/W0jmEOqDwFc.jpg)
