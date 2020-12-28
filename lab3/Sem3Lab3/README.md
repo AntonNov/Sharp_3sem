@@ -25,6 +25,7 @@
 * `Json5Parser` поддержиает файлы в формате Json5.
 
 * `ClassConstructor` способен создавать иерархии классов.
+
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab3/mems/0DHikolJYck.jpg)
 
 Краткое описание классов:
@@ -37,4 +38,6 @@
 * `Json5Parser` и `XmlParser` строят `List<KeyValuePair<string, object>>` из указанных файлов.
 > Чтобы построить класс `item` с конструктором без параметров, в Json: `"item" : { }`, а в XML: `<item/>`/
 > Чтобы построить пустую строку `str` в Json: `"str" : ""`, а в XML: `<srt></str>`.
+
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab3/mems/-WQ2OrJrEP4.jpg)
+![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab3/mems/W6pvvLhZhZ4.jpg)
