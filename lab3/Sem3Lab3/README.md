@@ -17,6 +17,7 @@
 * Классы, которые строятся при помощи `GetOptions<T>()` имеют вид `XXXSettings` и находятся в файлах `XXX.cs` в Lab2.
 
 > В папке "exsamples" находятся примеры конфигурационных файлов для `DirectoryFileExtractor` из Lab2.
+
 ![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab3/mems/xpTdzTKQoUs.jpg)
 
 Особенности:
