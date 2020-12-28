@@ -1,0 +1,6 @@
+C:\Users\anton\OneDrive\Desktop\lab3\Sem3Lab3\bin\Debug\Sem3Lab3.dll
+C:\Users\anton\OneDrive\Desktop\lab3\Sem3Lab3\bin\Debug\Sem3Lab3.pdb
+C:\Users\anton\OneDrive\Desktop\lab3\Sem3Lab3\obj\Debug\Sem3Lab3.csprojAssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\lab3\Sem3Lab3\obj\Debug\Sem3Lab3.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Desktop\lab3\Sem3Lab3\obj\Debug\Sem3Lab3.dll
+C:\Users\anton\OneDrive\Desktop\lab3\Sem3Lab3\obj\Debug\Sem3Lab3.pdb
