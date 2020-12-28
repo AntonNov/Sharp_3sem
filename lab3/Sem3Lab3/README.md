@@ -1,4 +1,5 @@
-![alt text](https://github.com/AntonNov/Sharp_3sem/blob/main/lab3/mems/EI6sv3seZJA.jpg)
+![alt text]
+(https://github.com/AntonNov/Sharp_3sem/blob/main/lab3/mems/EI6sv3seZJA.jpg)
 Лабораторная работа № 3
 =======================
 
