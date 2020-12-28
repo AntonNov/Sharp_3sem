@@ -12,9 +12,9 @@
 
 * Класс `ConfigReader` - местный менеджер конфигурации. Он ищет файлы в каталоге приложения, начинающиеся на "config" и парсит первый по алфавиту подходящий файл (с расширением ".json" или ".xml") `Json5Parser`'ом или `XmlParser`'ом соответственно. Метод `GetOptions<T>()` создаёт класс `T` при помощи `ClassConstructor` на основе конфигурационного файла.
 
-* Классы, которые строятся при помощи `GetOptions<T>()` имеют вид `XXXSettings` и находятся в файлах `XXX.cs` [в Lab2](AntonNov/Sharp_3sem/lab2/Sem3Lab2/).
+* Классы, которые строятся при помощи `GetOptions<T>()` имеют вид `XXXSettings` и находятся в файлах `XXX.cs` [в Lab2].
 
-> В папке "exsamples" находятся примеры конфигурационных файлов для `DirectoryFileExtractor` [из Lab2](AntonNov/Sharp_3sem/lab2/Sem3Lab2/).
+> В папке "exsamples" находятся примеры конфигурационных файлов для `DirectoryFileExtractor` [из Lab2].
 
 Особенности:
 ------------
